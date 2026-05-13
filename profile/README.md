@@ -2,10 +2,10 @@
 
 **postertaker** is an app where people can discover posters in the real world and share them with others.
 
-📸 Take a photo of a poster
-📍 Add the location
-🧾 Create a “take” for others to find and claim
-📜 Scroll through nearby and recent takes from the community
+ * 📸 Take a photo of a poster
+ * 📍 Add the location
+ * 🧾 Create a “take” for others to find and claim
+ * 📜 Scroll through nearby and recent takes from the community
 
 Whether it’s concert flyers, street art, events, or hidden gems — postertaker turns posters into a shared social experience.
 
