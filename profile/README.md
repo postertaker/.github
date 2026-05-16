@@ -2,7 +2,7 @@
 
 **postertaker** is an app where people can discover posters in the real world and share them with others.
 
- * 📸 Take a photo of a poster
+ * 📸 Take a photo of a poster or drawing
  * 📍 Add the location
  * 🧾 Create a “take” for others to find and claim
  * 📜 Scroll through nearby and recent takes from the community
